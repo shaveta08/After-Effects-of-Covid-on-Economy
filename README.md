@@ -32,7 +32,7 @@ This contains the different descriptive columns in the dataset.The content is av
   * Once you Hover the mouse over the dataset, It will highlight the country.
   * If we click on the country, it will show the country name and the gdp percentage change for that country.
   
- ![IMage_1]()
+ ![IMage_1](https://github.com/shaveta08/World-Economic-Changes-Visualization/blob/master/Capture.PNG)
  
  ## Line Graph:
   * By default complete average gdp of all the world countries is shown on the graph as single trace. 
@@ -42,5 +42,5 @@ This contains the different descriptive columns in the dataset.The content is av
   * Also, we have Delete Trace button at the bottom which will delete the traces from the start one by one.
   * We have speacial legend in the graph also, if you click on the legend then it will hide that particular trace for you for better visulaizations.
  
-   ![IMage_1]()
+   ![IMage_1](https://github.com/shaveta08/World-Economic-Changes-Visualization/blob/master/Capture1.PNG)
 
